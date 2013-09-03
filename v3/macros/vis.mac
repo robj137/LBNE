@@ -1,0 +1,18 @@
+/LBNE/det/DecayPipe/pipeLength 204 m
+/LBNE/det/setBeamlineAngle 0 mrad
+/LBNE/det/setBeamlineAngle -101 mrad
+/run/initialize
+/vis/scene/create
+/vis/open HepRepFile
+
+/vis/viewer/zoom 1.5
+/vis/viewer/flush
+/vis/scene/add/trajectories
+/vis/modeling/trajectories/create/drawByCharge
+/vis/modeling/trajectories/drawByCharge-0/default/setDrawStepPts true
+/vis/modeling/trajectories/drawByCharge-0/default/setStepPtsSize 2
+/vis/scene/endOfEventAction accumulate
+/vis/viewer/refresh
+/run/beamOn 1
+
+#

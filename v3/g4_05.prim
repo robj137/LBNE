@@ -1,0 +1,295 @@
+##G4.PRIM-FORMAT-2.4
+/BoundingBox       -129935.353       -129742.176       -131872.494        129935.353        130128.529        127998.212
+!SetCamera
+!OpenDevice
+!BeginModeling
+#--------------------
+#/PVName          targetHallPlacement.0
+/ColorRGB               0.6               0.7               0.8
+/ForceWireframe  0
+/Origin                 0                 0           -116100
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Box            3835.5              5931             14100
+#--------------------
+#/PVName          decayHallPlacement.0
+/ColorRGB               0.6               0.7               0.8
+/ForceWireframe  0
+/Origin                 0                 0              5000
+/BaseVector                 1                 0                 0                 0                 1                 0
+/Polyhedron
+/Vertex         2000.0001                 0           -107000
+/Vertex        1931.85175        517.638116           -107000
+/Vertex        1732.05089        1000.00005           -107000
+/Vertex        1414.21363        1414.21363           -107000
+/Vertex        1000.00005        1732.05089           -107000
+/Vertex        517.638116        1931.85175           -107000
+/Vertex    1.22464686e-13         2000.0001           -107000
+/Vertex       -517.638116        1931.85175           -107000
+/Vertex       -1000.00005        1732.05089           -107000
+/Vertex       -1414.21363        1414.21363           -107000
+/Vertex       -1732.05089        1000.00005           -107000
+/Vertex       -1931.85175        517.638116           -107000
+/Vertex        -2000.0001    2.44929372e-13           -107000
+/Vertex       -1931.85175       -517.638116           -107000
+/Vertex       -1732.05089       -1000.00005           -107000
+/Vertex       -1414.21363       -1414.21363           -107000
+/Vertex       -1000.00005       -1732.05089           -107000
+/Vertex       -517.638116       -1931.85175           -107000
+/Vertex   -3.67394058e-13        -2000.0001           -107000
+/Vertex        517.638116       -1931.85175           -107000
+/Vertex        1000.00005       -1732.05089           -107000
+/Vertex        1414.21363       -1414.21363           -107000
+/Vertex        1732.05089       -1000.00005           -107000
+/Vertex        1931.85175       -517.638116           -107000
+/Vertex                 0                 0           -107000
+/Vertex         2000.0001                 0        101964.595
+/Vertex        1931.85175        517.638116        101912.135
+/Vertex        1732.05089        1000.00005         101863.25
+/Vertex        1414.21363        1414.21363        101821.271
+/Vertex        1000.00005        1732.05089         101789.06
+/Vertex        517.638116        1931.85175        101768.811
+/Vertex    1.22464686e-13         2000.0001        101761.905
+/Vertex       -517.638116        1931.85175        101768.811
+/Vertex       -1000.00005        1732.05089         101789.06
+/Vertex       -1414.21363        1414.21363        101821.271
+/Vertex       -1732.05089        1000.00005         101863.25
+/Vertex       -1931.85175        517.638116        101912.135
+/Vertex        -2000.0001    2.44929372e-13        101964.595
+/Vertex       -1931.85175       -517.638116        102017.054
+/Vertex       -1732.05089       -1000.00005        102065.939
+/Vertex       -1414.21363       -1414.21363        102107.918
+/Vertex       -1000.00005       -1732.05089        102140.129
+/Vertex       -517.638116       -1931.85175        102160.378
+/Vertex   -3.67394058e-13        -2000.0001        102167.284
+/Vertex        517.638116       -1931.85175        102160.378
+/Vertex        1000.00005       -1732.05089        102140.129
+/Vertex        1414.21363       -1414.21363        102107.918
+/Vertex        1732.05089       -1000.00005        102065.939
+/Vertex        1931.85175       -517.638116        102017.054
+/Facet  1  25  2
+/Facet  2  25  3
+/Facet  3  25  4
+/Facet  4  25  5
+/Facet  5  25  6
+/Facet  6  25  7
+/Facet  7  25  8
+/Facet  8  25  9
+/Facet  9  25  10
+/Facet  10  25  11
+/Facet  11  25  12
+/Facet  12  25  13
+/Facet  13  25  14
+/Facet  14  25  15
+/Facet  15  25  16
+/Facet  16  25  17
+/Facet  17  25  18
+/Facet  18  25  19
+/Facet  19  25  20
+/Facet  20  25  21
+/Facet  21  25  22
+/Facet  22  25  23
+/Facet  23  25  24
+/Facet  24  25  1
+/Facet  27  26  1
+/Facet  1  2  27
+/Facet  28  27  2
+/Facet  2  3  28
+/Facet  29  28  3
+/Facet  3  4  29
+/Facet  30  29  4
+/Facet  4  5  30
+/Facet  31  30  5
+/Facet  5  6  31
+/Facet  32  31  6
+/Facet  6  7  32
+/Facet  33  32  7
+/Facet  7  8  33
+/Facet  34  33  8
+/Facet  8  9  34
+/Facet  35  34  9
+/Facet  9  10  35
+/Facet  36  35  10
+/Facet  10  11  36
+/Facet  37  36  11
+/Facet  11  12  37
+/Facet  38  37  12
+/Facet  12  13  38
+/Facet  39  38  13
+/Facet  13  14  39
+/Facet  40  39  14
+/Facet  14  15  40
+/Facet  41  40  15
+/Facet  15  16  41
+/Facet  42  41  16
+/Facet  16  17  42
+/Facet  43  42  17
+/Facet  17  18  43
+/Facet  44  43  18
+/Facet  18  19  44
+/Facet  45  44  19
+/Facet  19  20  45
+/Facet  46  45  20
+/Facet  20  21  46
+/Facet  47  46  21
+/Facet  21  22  47
+/Facet  48  47  22
+/Facet  22  23  48
+/Facet  49  48  23
+/Facet  23  24  49
+/Facet  26  49  24
+/Facet  24  1  26
+/Facet  26  27  28
+/Facet  28  29  30
+/Facet  30  31  32
+/Facet  32  33  34
+/Facet  34  35  36
+/Facet  36  37  38
+/Facet  38  39  40
+/Facet  40  41  42
+/Facet  42  43  44
+/Facet  44  45  46
+/Facet  46  47  48
+/Facet  48  49  26
+/Facet  26  28  30
+/Facet  30  32  34
+/Facet  34  36  38
+/Facet  38  40  42
+/Facet  42  44  46
+/Facet  46  48  26
+/Facet  26  30  34
+/Facet  34  38  42
+/Facet  42  46  26
+/Facet  26  34  42
+/EndPolyhedron
+#--------------------
+#/PVName          absorberHallPlacement.0
+/ColorRGB               0.6               0.7               0.8
+/ForceWireframe  0
+/Origin                 0              3000            114000
+/BaseVector                 1                 0                 0                 0       0.994903834      -0.100828371
+/Box              5000             11000              7000
+#--------------------
+#/PVName               HadronAbsorber.0
+/ColorRGB               0.6               0.7               0.8
+/ForceWireframe  0
+/Origin                 0              3000            114000
+/BaseVector                 1                 0                 0                 0       0.994903834      -0.100828371
+/Box              6250              6250              5250
+#--------------------
+#/PVName                    ConcreteAbsorberPhysical.0
+/ColorRGB              0.75              0.85              0.95
+/ForceWireframe  0
+/Origin                 0              3000            114000
+/BaseVector                 1                 0                 0                 0       0.994903834      -0.100828371
+/Polyhedron
+/Vertex             -6000             -6000             -5000
+/Vertex              6000             -6000             -5000
+/Vertex              6000              6000             -5000
+/Vertex             -6000              6000             -5000
+/Vertex             -6000             -6000              5000
+/Vertex              6000             -6000              5000
+/Vertex              6000              6000              5000
+/Vertex             -6000              6000              5000
+/Vertex        -3300.2046        -3300.1518        1599.88779
+/Vertex         3299.7954        -3300.1518        1599.88779
+/Vertex         3299.7954         3299.8482        1599.88779
+/Vertex        -3300.2046         3299.8482        1599.88779
+/Vertex        -3300.2046         3299.8482             -5000
+/Vertex        -3300.2046        -3300.1518             -5000
+/Vertex         3299.7954         3299.8482             -5000
+/Vertex         3299.7954        -3300.1518             -5000
+/Facet  5  8  4  1
+/Facet  8  7  3  4
+/Facet  7  6  2  3
+/Facet  6  5  1  2
+/Facet  5  6  7  8
+/Facet  9  12  11  10
+/Facet  4  15  13
+/Facet  15  4  3
+/Facet  1  4  13
+/Facet  16  15  3
+/Facet  1  13  14
+/Facet  16  3  2
+/Facet  2  1  14
+/Facet  14  16  2
+/Facet  13  12  9
+/Facet  9  14  13
+/Facet  15  11  12
+/Facet  12  13  15
+/Facet  16  10  11
+/Facet  11  15  16
+/Facet  14  9  10
+/Facet  10  16  14
+/EndPolyhedron
+#--------------------
+#/PVName                         SteelAbsorberPhysical.0
+/ColorRGB               0.5               0.3                 0
+/ForceWireframe  0
+/Origin                 0        2828.59177        112308.664
+/BaseVector                 1                 0                 0                 0       0.994903834      -0.100828371
+/Polyhedron
+/Vertex             -3300             -3300             -3300
+/Vertex              3300             -3300             -3300
+/Vertex              3300              3300             -3300
+/Vertex             -3300              3300             -3300
+/Vertex             -3300             -3300              3300
+/Vertex              3300             -3300              3300
+/Vertex              3300              3300              3300
+/Vertex             -3300              3300              3300
+/Facet  1  4  3  2
+/Facet  5  8  4  1
+/Facet  8  7  3  4
+/Facet  7  6  2  3
+/Facet  6  5  1  2
+/Facet  5  6  7  8
+/EndPolyhedron
+#--------------------
+#/PVName                              AluminumAbsorberPhysical.0
+/ColorRGB               0.2               0.8                 1
+/ForceWireframe  0
+/Origin                 0        2596.68652        110020.385
+/BaseVector                 1                 0                 0                 0       0.994903834      -0.100828371
+/Polyhedron
+/Vertex             -1000             -1000             -1000
+/Vertex              1000             -1000             -1000
+/Vertex              1000              1000             -1000
+/Vertex             -1000              1000             -1000
+/Vertex             -1000             -1000              1000
+/Vertex              1000             -1000              1000
+/Vertex              1000              1000              1000
+/Vertex             -1000              1000              1000
+/Vertex         -74.99655         -75.00255        -850.00466
+/Vertex          75.00345         -75.00255        -850.00466
+/Vertex          75.00345          74.99745        -850.00466
+/Vertex         -74.99655          74.99745        -850.00466
+/Vertex         -74.99655          74.99745             -1000
+/Vertex         -74.99655         -75.00255             -1000
+/Vertex          75.00345          74.99745             -1000
+/Vertex          75.00345         -75.00255             -1000
+/Facet  5  8  4  1
+/Facet  8  7  3  4
+/Facet  7  6  2  3
+/Facet  6  5  1  2
+/Facet  5  6  7  8
+/Facet  9  12  11  10
+/Facet  4  15  13
+/Facet  15  4  3
+/Facet  1  4  13
+/Facet  16  15  3
+/Facet  1  13  14
+/Facet  16  3  2
+/Facet  2  1  14
+/Facet  14  16  2
+/Facet  13  12  9
+/Facet  9  14  13
+/Facet  15  11  12
+/Facet  12  13  15
+/Facet  16  10  11
+/Facet  11  15  16
+/Facet  14  9  10
+/Facet  10  16  14
+/EndPolyhedron
+#--------------------
+!EndModeling
+!DrawAll
+!CloseDevice
