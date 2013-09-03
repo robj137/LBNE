@@ -1,0 +1,24 @@
+/GasCherenkov/fileName/fileName output_test.root
+/run/initialize
+#
+/gun/particle mu+
+/gun/energy 3000.0 GeV
+/gun/direction 0. 0. 1.0
+/gun/position 2000. 0. -20. cm
+#
+/control/verbose 2
+/run/verbose 2
+/vis/scene/create
+/vis/open HepRepFile
+
+/vis/viewer/zoom 1.5
+/vis/viewer/flush
+/vis/scene/add/trajectories
+/vis/modeling/trajectories/create/drawByCharge
+/vis/modeling/trajectories/drawByCharge-0/default/setDrawStepPts true
+/vis/modeling/trajectories/drawByCharge-0/default/setStepPtsSize 2
+/vis/scene/endOfEventAction accumulate
+/vis/viewer/refresh
+/run/beamOn 10
+
+#

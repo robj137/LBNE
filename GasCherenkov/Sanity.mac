@@ -1,0 +1,16 @@
+/gasCherenkov/detector/planePosition 4 m
+/gasCherenkov/detector/index 1.0167495
+/GasCherenkov/fileName/fileName /axp/lnxdata304/wrk2/ltm/pitcherc/gas_cherenkov_cone/Sanity.root
+/run/initialize
+/process/inactivate Scintillation
+/event/verbose 0
+/tracking/verbose 0
+/run/verbose 0
+/process/verbose 0
+/process/setVerbose 1
+
+/gun/particle mu+
+/gun/energy 4.0 GeV
+/run/beamOn 1000
+
+#
